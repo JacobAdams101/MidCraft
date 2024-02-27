@@ -12,16 +12,16 @@ public class Engine
     /**
      * 
      */
-    public static final double ONEBILLIONTH = 0.000000001d;
+    public static final float ONEBILLIONTH = 0.000000001f;
     /**
      * 
      */
-    public static final String GAMETITLE = "MID CRAFT";
+    public static final String GAMETITLE = "MEH CRAFT";
     
     /**
      * 
      */
-    public static final long MAXFPS = 120;
+    public static final long MAXFPS = 60;
     /**
      * 
      */
